@@ -1,0 +1,10 @@
+.App {
+  padding-top: 3rem;
+  text-align: center;
+  color: white;
+  background: rgb(33, 33, 33);
+}
+
+.App-intro {
+  font-size: 3rem;
+}
